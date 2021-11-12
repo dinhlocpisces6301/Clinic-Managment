@@ -1,0 +1,102 @@
+E:\BCCK_N6\BCCK_N6\bin\Debug\clinicDB.mdf
+E:\BCCK_N6\BCCK_N6\bin\Debug\clinicDB_log.ldf
+E:\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.exe.config
+E:\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.exe
+E:\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.pdb
+E:\BCCK_N6\BCCK_N6\bin\Debug\Xceed.Document.NET.dll
+E:\BCCK_N6\BCCK_N6\bin\Debug\Xceed.Words.NET.dll
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.AssemblyReference.cache
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.AccountManager.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Clinic.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Finance.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.ForgetPassword.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.AdminMenu.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Menu.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Properties.Resources.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Setting.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.SignIn.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.SignUp.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.GenerateResource.cache
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.CoreCompileInputs.cache
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.CopyComplete
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.exe
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.pdb
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Storage.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\clinicDB.mdf
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\clinicDB_log.ldf
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.exe.config
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.exe
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.pdb
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\Xceed.Document.NET.dll
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\Xceed.Words.NET.dll
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.AssemblyReference.cache
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.AccountManager.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Clinic.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Finance.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.ForgetPassword.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.AdminMenu.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Menu.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Properties.Resources.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Setting.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.SignIn.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.SignUp.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Storage.resources
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.GenerateResource.cache
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.CoreCompileInputs.cache
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.CopyComplete
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.exe
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.pdb
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.ResetPassword.resources
+E:\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.ResetPassword.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\bin\Debug\clinicDB.mdf
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\bin\Debug\clinicDB_log.ldf
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.exe.config
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.exe
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.pdb
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.AccountManager.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.alert.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Clinic.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Finance.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.ForgetPassword.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.AdminMenu.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Menu.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.ResetPassword.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Setting.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.SignIn.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.SignUp.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Storage.resources
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.exe
+C:\Users\Admin\OneDrive\Máy tính\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.pdb
+D:\HK2 2020-2021\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.alert.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\clinicDB.mdf
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\clinicDB_log.ldf
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.exe.config
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.exe
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\BCCK_N6.pdb
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\Xceed.Document.NET.dll
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\bin\Debug\Xceed.Words.NET.dll
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.AssemblyReference.cache
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.AccountManager.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.alert.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Clinic.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Finance.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.ForgetPassword.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.AdminMenu.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Menu.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Properties.Resources.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.ResetPassword.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Setting.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.SignIn.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.SignUp.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.Storage.resources
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.GenerateResource.cache
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.CoreCompileInputs.cache
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.exe
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.pdb
