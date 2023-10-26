@@ -19,8 +19,10 @@ namespace BCCK_N6
         }
 
         private DataProvider() { }
-        //private string connectionSTR = @"Data Source=.\SQLEXPRESS;Initial Catalog=Clinic;Integrated Security=True";
-        private string connectionSTR = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\clinicDB.mdf;Integrated Security=True";
+        //private string connectionSTR = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\clinicDB.mdf"";Integrated Security=True;Connect Timeout=30";
+        //private string connectionSTR = @"Data Source=.\SQLEXPRESS;Initial Catalog=ClinicDB;Integrated Security=True";
+        private string connectionSTR = @"Data Source=LAPTOP-IDFPTM4U\SQLEXPRESS;Initial Catalog=ClinicDB;Integrated Security=True";
+
         public DataTable ExecuteQuery(string query, object[] parameter = null)
         {
             DataTable data = new DataTable();

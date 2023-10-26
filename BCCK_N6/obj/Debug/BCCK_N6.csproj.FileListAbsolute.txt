@@ -100,3 +100,4 @@ D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\
 D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.CoreCompileInputs.cache
 D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.exe
 D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.pdb
+D:\2020-2021 HK2\Algorithm Design Analysis\NHÓM 6\CK\BCCK_N6\BCCK_N6\obj\Debug\BCCK_N6.csproj.CopyComplete
